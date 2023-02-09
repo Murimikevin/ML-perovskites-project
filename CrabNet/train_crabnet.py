@@ -117,8 +117,8 @@ if __name__ == '__main__':
     mat_prop = 'example_materials_property'
     # Choose if you data is a regression or binary classification
     classification = False
-    train = False
-#     train = True
+    # train = False
+    train = True
 
     # Train your model using the "get_model" function
     if train:
